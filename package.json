@@ -1,0 +1,15 @@
+{
+  "name": "aritgeo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aritGeo.js",
+  "scripts": {
+    "test": "mocha aritGeoTest2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
